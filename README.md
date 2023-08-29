@@ -1,1 +1,2 @@
-# test-task-wodoo-roks
+# npm install
+# npm run serve
