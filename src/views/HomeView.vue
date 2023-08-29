@@ -94,11 +94,10 @@ export default {
 <style scoped lang="scss">
 
 .posts {
-    margin-top: 30px;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: center;
+    margin: 30px auto 0 auto;
 
     &__not-found {
         margin-top: 20px;
